@@ -6,3 +6,4 @@ Add your name below by submitting a pull request to this repository!
 - Suhon Choe
 - Jason Lehto
 - Aylin Gulen
+- Ajay Hastak
